@@ -1,0 +1,9 @@
+{
+  "name": "webchat-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "wechaty": "^0.68.1"
+  }
+}
